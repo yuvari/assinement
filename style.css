@@ -1,0 +1,354 @@
+*
+{
+    margin: 0;
+    padding: 0 0 0px;
+
+}
+.Rectangle-16 {
+  width: 1256px;
+  height: 80px;
+  margin: 0 0 0px;
+  padding: 15px 101px 13px 102px;
+  background-color: #ce0505;
+}
+  .e{
+    width: 32px;
+    height: 47px;
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 600;
+    line-height: 1.75;
+    letter-spacing: 80%;
+    text-align:center;
+    color: #eb2929;
+
+  }
+  .Ellipse{
+    width: 52px;
+    height: 52px;
+    margin: 0 761px 0 0;
+    padding: 1px 10px 4px 30px;
+    background-color:#fff;
+    border-radius: 50%;
+    position: absolute;
+    top:20px;
+    bottom:15px;
+    right: 1210px;
+    left: 102px;
+  }
+  .menu {
+    float: right;
+    list-style: none;
+    margin: 20px;
+}
+.menu li{
+    display: inline-block;
+    margin: 10px 5px;
+    
+}
+.menu li a{
+  text-decoration: none;
+  color:#fff;
+  padding: 5px 2px;
+  font-family: samns-serif;
+  letter-spacing: 1px;
+}
+.menu li a:hover{
+  background:none;
+  transition:.4s;
+  color: rgb(41, 9, 156);
+}
+.Rectangle-17{
+  position: absolute;
+  left: 1015px;
+  top:28px;
+  bottom: 28px;
+  right: 308px;
+}
+.menu1 {
+  float: right;
+  list-style: none;
+  margin: 10px;
+}
+.menu1 li{
+  display: inline-block;
+  margin: 25px 10px;
+  
+}
+.menu1 li a{
+text-decoration: none;
+color:#fff;
+padding: 5px 0px;
+font-family: samns-serif;
+letter-spacing: 0px;
+border: 1px solid #fff;
+}
+.menu1 li a:hover{
+background:none;
+transition:.4s;
+color: rgb(41, 9, 156);
+}
+.Rectangle-1{
+  position: absolute;
+  top: 17px;
+  bottom: 910px;
+  left: 1034px;
+  right: 101px;
+}
+
+  .Web-1920-6{
+    width: 1459px;
+    height: 923px;
+    padding: 0 0 88px;
+  background-color:#fff;
+  }
+  .Rectangle-5{
+    width: 260px;
+  height: 682px;
+  margin: 27px 45px 8px 100px;
+  padding: 17px 25px 31px 26px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+    position:absolute;
+    top: 199px;
+    bottom:20px;
+    left: 10px;
+    right: 993px;
+  }
+  .Breakfast-Places-in-Mumbai{
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 100px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.53;
+    text-align: left;
+    color: #0f3891;
+    position:absolute;
+    top: 117px;
+    bottom: 801px;
+    left: 10px;
+    right: 993px;
+    
+  }
+  .Rectangle-6{
+    width: 794px;
+  height: 281px;
+  margin: 27px 154px 34px 45px;
+  padding: 25px 32.6px 20px 35px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  position:absolute;
+    top: 199px;
+    bottom: 487px;
+    left: 430px;
+    right: 120px;
+
+  }
+  .Rectangle-7{
+    width: 794px;
+  height: 281px;
+  margin: 5px 154px 38px 45px;
+  padding: 25px 32.6px 20px 35px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  position:absolute;
+    top: 585px;
+    bottom: 162px;
+    left: 430px;
+    right: 120px;
+  }
+  
+  .filter{
+    width: 55px;
+  height: 25px;
+  margin: 0 154px 10px 0;
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.5;
+  text-align: left;
+  color: #1547b4;
+  }
+  .Select-Location {
+    width: 106px;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.2;
+    text-align: left;
+    color: #1b55d3;
+  }
+  .dropdown{
+    width: 208px;
+  height: 35px;
+  margin: 11px 0 22px 1px;
+  padding: 8px 16.7px 7px 15px;
+  border-radius: 3px;
+  border: solid 1px #8c96ab;
+  }
+  .Cuisine {
+    width: 51px;
+    height: 20px;
+    margin: 22px 157px 15px 1px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+    color: #1a4cb8;
+  }
+  .Cost-For-Two{
+    width: 89px;
+    height: 20px;
+    margin: 26px 119px 15px 1px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+    color: #1c4db6;
+  }
+  .Sort {
+    width: 37px;
+    height: 25px;
+    margin: 29px 172px 15px 0;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+    color: #184fc5;
+  }
+  img.shutterstock_1154073754 {
+    width: 140px;
+    height: 140px;
+    margin: 0 41px 31px 0;
+    object-fit: contain;
+  }
+  .The-Big-Chill-Cakery {
+    width: 298px;
+    height: 43px;
+    margin: 14px 267.4px 5px 41px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.53;
+    text-align: left;
+    color: #192f60;
+    position:absolute;
+    top: 39px;
+    bottom: 209px;
+    left: 196px;
+    right: 300px;
+  }
+  .FORT {
+    width: 39px;
+    height: 23px;
+    margin: 5px 521.4px 5px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.88;
+    text-align: left;
+    color: #192f60;
+    position:absolute;
+    top: 87px;
+    bottom: 181px;
+    left: 201px;
+    right: 554px;
+  }
+  .Shop-1 {
+    width: 365px;
+    height: 23px;
+    margin: 5px 195.4px 38px 46px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.88;
+    text-align: left;
+    color: #636f88;
+    position:absolute;
+    top: 115px;
+    bottom: 153px;
+    left: 201px;
+    right: 228px;
+  }
+  .line{
+    width: 726.4px;
+    height: 0;
+    margin: 31px 0 0;
+    border: solid 0px #dedfe5;
+    position: absolute;
+    top: 156px;
+    bottom: 155px;
+    right: 32.6px ;
+    left:35px ;
+  }
+  .CUISINES-COST-FOR-TWO {
+    width: 140px;
+    height: 118px;
+    margin: 229px 52px 5px 85px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 1.88;
+    text-align: left;
+    color: #636f88;
+  }
+  .Baker{
+    width: 251px;
+    height: 69px;
+    margin: 26px 294.4px 0 61px;
+    font-family: Poppins;
+    font-size: 15px;
+    line-height: 1.88;
+    text-align: left;
+    color: #192f60;
+    position: absolute;
+    top: 202px;
+    left: 227px;
+    bottom: 20px;
+    right: 216px;
+  
+  }
+
+    .pagination {
+      display: inline-block;
+    }
+    
+    .pagination a {
+      color: black;
+      float: left;
+      padding: 8px 16px;
+      border: solid 1px #8c96ab;
+      text-decoration: none;
+    }
+    
+    .pagination a.active {
+      background-color: #8c96ab;
+      color: white;
+      border-radius: 5px;
+    }
+    
+    .pagination a:hover:not(.active) {
+      background-color: #fff;
+      border-radius: 5px;
+    }
+    .pagination{
+    position: absolute;
+    top: 985px ;
+    bottom:88px ;
+    left: 650px;
+    right: 286px;
+  }
